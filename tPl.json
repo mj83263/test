@@ -1,0 +1,6 @@
+{
+ "name":"testPool",
+ "description":"the pool that tests all the pools",
+  "ticker":"Test",
+  "homepage":"https://test.com"
+}
