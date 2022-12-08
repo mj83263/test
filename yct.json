@@ -1,6 +1,6 @@
 {
-          "name": "mypool",
-          "description": "My stake pool",
-          "ticker": "POOL1",
-          "homepage": "https://mystakepool.com"
+  "name": "poolOwner#1",
+  "description": "the first",
+  "ticker": "ycp1",
+  "homepage": "https://127.0.0.1"
 }
