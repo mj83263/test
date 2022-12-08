@@ -1,3 +1,6 @@
 {
- 
+  "name": "myPool#2",
+  "description": "myPool#2",
+  "ticker": "TMP2",
+  "homepage": "https://127.0.0.1"
 }
